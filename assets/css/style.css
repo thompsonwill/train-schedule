@@ -1,0 +1,11 @@
+#allOfIt {
+    margin: auto;
+}
+
+.jumbotron
+{   
+    margin: auto;
+    width: 75%;
+                   /* you have something in your div with height */
+                   /* so you can see your image */
+ }
